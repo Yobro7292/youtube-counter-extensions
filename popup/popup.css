@@ -1,0 +1,16 @@
+.container {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px;
+  }
+  .counter{
+    color: brown;
+    font-size: 18px;
+  }
